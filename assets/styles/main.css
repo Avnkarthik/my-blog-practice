@@ -6,4 +6,7 @@ body {
   .subscribe-button {
     background-color: blue;
     padding: 10px;
-  }
+   }
+   .header{
+    margin: auto;
+   }
