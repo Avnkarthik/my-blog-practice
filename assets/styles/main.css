@@ -1,5 +1,9 @@
 /* Empty css file*/
-.subscribe-button {
+body {
+    background-color: black;
+    color: white;
+  }
+  .subscribe-button {
     background-color: blue;
     padding: 10px;
   }
